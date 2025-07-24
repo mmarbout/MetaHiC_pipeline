@@ -1,11 +1,15 @@
 # Phage Host association in metaHiC samples
 
-The goal of this pipeline is to bin contigs in MAGs abd viral bins, characterize
-the viral genomes obtained and associate them with their host using several 
-metaHiC smaples. The analysis done in this repository have been described in:  
+The goal of this pipeline is to bin contigs in MAGs and vMAGs, characterize
+the viral genomes obtained and associate them with their host. 
 
-Phages with a broad host range are common across ecosystems
+The analysis have been described in:  
+
+Bignaud et al.
+Phages with a broad host range are common across ecosystems.
  
+The different data mandatory to reproduce this analysis are all publicly available and described in the publication.
+
 
 ## Usage
 
