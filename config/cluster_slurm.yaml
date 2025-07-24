@@ -138,36 +138,6 @@ run_checkM:
     output: logs/cluster/{rule}.{wildcards}.out
     error: logs/cluster/{rule}.{wildcards}.err
 
-run_gtdbtk:
-    queue: normal
-    partition: common
-    ncpus: 64
-    mem: 64G
-    ntasks: 1
-    name: MET.{rule}.{wildcards}
-    output: logs/cluster/{rule}.{wildcards}.out
-    error: logs/cluster/{rule}.{wildcards}.err
-
-scaffold:
-    queue: normal
-    partition: common
-    ncpus: 1
-    mem: 64G
-    ntasks: 1
-    name: MET.{rule}.{wildcards}
-    output: logs/cluster/{rule}.{wildcards}.out
-    error: logs/cluster/{rule}.{wildcards}.err
-
-setup_virsorter:
-    queue: fast
-    partition: common,dedicated
-    ncpus: 4
-    mem: 16G
-    ntasks: 1
-    name: MET.{rule}.{wildcards}
-    output: logs/cluster/{rule}.{wildcards}.out
-    error: logs/cluster/{rule}.{wildcards}.err
-
 setup_checkv:
     queue: fast
     partition: common,dedicated
@@ -188,31 +158,11 @@ setup_genomad:
     output: logs/cluster/{rule}.{wildcards}.out
     error: logs/cluster/{rule}.{wildcards}.err
 
-run_virsorter:
-    queue: normal
-    partition: common
-    ncpus: 64
-    mem: 64G
-    ntasks: 1
-    name: MET.{rule}.{wildcards}
-    output: logs/cluster/{rule}.{wildcards}.out
-    error: logs/cluster/{rule}.{wildcards}.err
-
 run_genomad:
     queue: normal
     partition: common
     ncpus: 32
     mem: 64G
-    ntasks: 1
-    name: MET.{rule}.{wildcards}
-    output: logs/cluster/{rule}.{wildcards}.out
-    error: logs/cluster/{rule}.{wildcards}.err
-
-phage_curation_virsorter:
-    queue: normal
-    partition: common
-    ncpus: 1
-    mem: 16G
     ntasks: 1
     name: MET.{rule}.{wildcards}
     output: logs/cluster/{rule}.{wildcards}.out
@@ -248,32 +198,6 @@ phage_contact_map:
     output: logs/cluster/{rule}.{wildcards}.out
     error: logs/cluster/{rule}.{wildcards}.err
 
-sg_extract_reads:
-    queue: normal
-    ncpus: 1
-    mem: 1G
-    ntasks: 1
-    name: MET.{rule}.{wildcards}
-    output: logs/cluster/{rule}.{wildcards}.out
-    error: logs/cluster/{rule}.{wildcards}.err
-
-hic_extract_reads:
-    queue: normal
-    ncpus: 1
-    mem: 1G
-    ntasks: 1
-    name: MET.{rule}.{wildcards}
-    output: logs/cluster/{rule}.{wildcards}.out
-    error: logs/cluster/{rule}.{wildcards}.err
-    
-assemble_phage:
-    queue: normal
-    ncpus: 1
-    mem: 1G
-    ntasks: 1
-    name: MET.{rule}.{wildcards}
-    output: logs/cluster/{rule}.{wildcards}.out
-    error: logs/cluster/{rule}.{wildcards}.err
     
 # Command to run everything
 
