@@ -1,0 +1,289 @@
+__default__:
+    queue: normal
+    partition: common
+    ncpus: 32
+    mem: 32G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+remove_small_contigs:
+    queue: fast
+    partition: common,dedicated
+    ncpus: 1
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+bt2_index_metator:
+    queue: fast
+    partition: common,dedicated
+    ncpus: 32
+    mem: 32G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+split_fastq:
+    queue: fast
+    partition: common,dedicated
+    ncpus: 4
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+split_fastq_digest:
+    queue: fast
+    partition: common,dedicated
+    ncpus: 4
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+cutsite_hic:
+    queue: normal
+    partition: common
+    ncpus: 4
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+build_pyfastx_index:
+    queue: fast
+    partition: common,dedicated
+    ncpus: 1
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+generates_pairs:
+    queue: fast
+    partition: common,dedicated
+    ncpus: 32
+    mem: 32G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+sort_metator_pairs:
+    queue: fast
+    partition: common,dedicated
+    ncpus: 32
+    mem: 32G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+build_louvain:
+    queue: fast
+    partition: common,dedicated
+    ncpus: 1
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+metator_binning:
+    queue: normal
+    partition: common
+    ncpus: 32
+    mem: 32G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+qc_metator:
+    queue: normal
+    partition: common
+    ncpus: 1
+    mem: 32G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+qc_metator_lib:
+    queue: normal
+    partition: common
+    ncpus: 1
+    mem: 32G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+run_checkM:
+    queue: normal
+    partition: common
+    ncpus: 32
+    mem: 64G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+run_gtdbtk:
+    queue: normal
+    partition: common
+    ncpus: 64
+    mem: 64G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+scaffold:
+    queue: normal
+    partition: common
+    ncpus: 1
+    mem: 64G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+setup_virsorter:
+    queue: fast
+    partition: common,dedicated
+    ncpus: 4
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+setup_checkv:
+    queue: fast
+    partition: common,dedicated
+    ncpus: 1
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+setup_genomad:
+    queue: fast
+    partition: common,dedicated
+    ncpus: 1
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+run_virsorter:
+    queue: normal
+    partition: common
+    ncpus: 64
+    mem: 64G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+run_genomad:
+    queue: normal
+    partition: common
+    ncpus: 32
+    mem: 64G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+phage_curation_virsorter:
+    queue: normal
+    partition: common
+    ncpus: 1
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+phage_curation_genomad:
+    queue: normal
+    partition: common
+    ncpus: 1
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+phage_host_association:
+    queue: normal
+    partition: common
+    ncpus: 1
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+phage_contact_map:
+    queue: normal
+    partition: common
+    ncpus: 1
+    mem: 16G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+sg_extract_reads:
+    queue: normal
+    ncpus: 1
+    mem: 1G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+
+hic_extract_reads:
+    queue: normal
+    ncpus: 1
+    mem: 1G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+    
+assemble_phage:
+    queue: normal
+    ncpus: 1
+    mem: 1G
+    ntasks: 1
+    name: MET.{rule}.{wildcards}
+    output: logs/cluster/{rule}.{wildcards}.out
+    error: logs/cluster/{rule}.{wildcards}.err
+    
+# Command to run everything
+
+# First it's necessary to build conda env as the cluster nodes are not connected
+# to the network.
+# snakemake --conda-create-envs-only --use-conda -j 1
+
+# Build the log directory.
+# mkdir -p logs/cluster/
+
+# Run everything on cluster.
+# snakemake --cluster "sbatch --mem {cluster.mem} --partition {cluster.partition} -q {cluster.queue} -c {cluster.ncpus} -n {cluster.ntasks} -J {cluster.name} -o {cluster.output} -e {cluster.error}" --cluster-config config/cluster_slurm.yaml -j 1000 --use-conda --rerun-incomplete --rerun-triggers mtime
+

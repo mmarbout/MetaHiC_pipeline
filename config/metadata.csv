@@ -1,0 +1,492 @@
+sample_type;source;bioproject;SRA_accession;originla_id;ref;enzyme;library;type;method;digestion;geographical_area
+cow_microbiome;Bickart et al., 2019;PRJNA507739;SRR8266641;NA;cow1;Sau3AI,MluCI;cow1a_proxi;hic;proxi;YES;North_America
+cow_microbiome;Bickart et al., 2019;PRJNA507739;SRR8266636;NA;cow1;Sau3AI,MluCI;cow1b_proxi;hic;proxi;YES;North_America
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197516;NA;pig1;NA;pig1a_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197517;NA;pig1;NA;pig1b_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197518;NA;pig1;NA;pig1c_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197519;NA;pig1;NA;pig1d_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197520;NA;pig1;NA;pig1e_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197521;NA;pig1;NA;pig1f_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197522;NA;pig1;NA;pig1g_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197523;NA;pig1;NA;pig1h_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197524;NA;pig1;NA;pig1i_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197525;NA;pig1;NA;pig1j_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197526;NA;pig1;HpyCH4IV;pig1a_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197527;NA;pig1;HpyCH4IV;pig1b_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197528;NA;pig2;NA;pig2a_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197529;NA;pig2;NA;pig2b_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197530;NA;pig2;NA;pig2c_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197531;NA;pig2;NA;pig2d_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197532;NA;pig2;NA;pig2e_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7184237;NA;pig2;NA;pig2f_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197533;NA;pig2;NA;pig2g_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197534;NA;pig2;NA;pig2h_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197535;NA;pig2;NA;pig2i_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197536;NA;pig2;NA;pig2j_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197537;NA;pig2;HpyCH4IV;pig2a_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197538;NA;pig2;HpyCH4IV;pig2b_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197539;NA;pig3;NA;pig3a_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197540;NA;pig3;NA;pig3b_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197541;NA;pig3;NA;pig3c_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197542;NA;pig3;NA;pig3d_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197543;NA;pig3;NA;pig3e_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197544;NA;pig3;NA;pig3f_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197545;NA;pig3;NA;pig3g_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197546;NA;pig3;NA;pig3h_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197547;NA;pig3;NA;pig3i_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197548;NA;pig3;NA;pig3j_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197549;NA;pig3;HpyCH4IV;pig3a_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197550;NA;pig3;HpyCH4IV;pig3b_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197551;NA;pig4;NA;pig4a_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197552;NA;pig4;NA;pig4b_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197553;NA;pig4;NA;pig4c_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197554;NA;pig4;NA;pig4d_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197555;NA;pig4;NA;pig4e_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197556;NA;pig4;NA;pig4f_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197557;NA;pig4;NA;pig4g_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197558;NA;pig4;NA;pig4h_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197559;NA;pig4;NA;pig4i_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197560;NA;pig4;NA;pig4j_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197561;NA;pig4;HpyCH4IV;pig4a_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197562;NA;pig4;HpyCH4IV;pig4b_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197563;NA;pig5;NA;pig5a_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197564;NA;pig5;NA;pig5b_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197565;NA;pig5;NA;pig5c_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197566;NA;pig5;NA;pig5d_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197567;NA;pig5;NA;pig5e_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197568;NA;pig5;NA;pig5f_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197569;NA;pig5;NA;pig5g_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197570;NA;pig5;NA;pig5h_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197571;NA;pig5;NA;pig5i_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197572;NA;pig5;NA;pig5j_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197573;NA;pig5;HpyCH4IV;pig5a_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197574;NA;pig5;HpyCH4IV;pig5b_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197575;NA;pig6;NA;pig6a_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197576;NA;pig6;NA;pig6b_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197577;NA;pig6;NA;pig6c_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197578;NA;pig6;NA;pig6d_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197579;NA;pig6;NA;pig6e_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197580;NA;pig6;NA;pig6f_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197581;NA;pig6;NA;pig6g_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197582;NA;pig6;NA;pig6h_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197583;NA;pig6;NA;pig6i_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197584;NA;pig6;NA;pig6j_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197585;NA;pig6;HpyCH4IV;pig6a_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197586;NA;pig6;HpyCH4IV;pig6b_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197587;NA;pig7;NA;pig7a_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197588;NA;pig7;NA;pig7b_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197589;NA;pig7;NA;pig7c_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197590;NA;pig7;NA;pig7d_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197591;NA;pig7;NA;pig7e_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197592;NA;pig7;NA;pig7f_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197593;NA;pig7;NA;pig7g_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197594;NA;pig7;NA;pig7h_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197595;NA;pig7;NA;pig7i_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197596;NA;pig7;NA;pig7j_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197597;NA;pig7;HpyCH4IV;pig7a_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197598;NA;pig7;HpyCH4IV;pig7b_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197599;NA;pig8;NA;pig8a_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197600;NA;pig8;NA;pig8b_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197601;NA;pig8;NA;pig8c_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197602;NA;pig8;NA;pig8d_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197603;NA;pig8;NA;pig8e_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197604;NA;pig8;NA;pig8f_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197605;NA;pig8;NA;pig8g_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197606;NA;pig8;NA;pig8h_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197607;NA;pig8;NA;pig8i_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197608;NA;pig8;NA;pig8j_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197609;NA;pig8;HpyCH4IV;pig8a_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197610;NA;pig8;HpyCH4IV;pig8b_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197611;NA;pig9;NA;pig9a_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197612;NA;pig9;NA;pig9b_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197613;NA;pig9;NA;pig9c_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197614;NA;pig9;NA;pig9d_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197639;NA;pig9;NA;pig9e_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197640;NA;pig9;NA;pig9f_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197641;NA;pig9;NA;pig9g_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197642;NA;pig9;NA;pig9h_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197643;NA;pig9;NA;pig9i_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197644;NA;pig9;NA;pig9j_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197645;NA;pig9;HpyCH4IV;pig9a_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197646;NA;pig9;HpyCH4IV;pig9b_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197647;NA;pig10;NA;pig10a_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197648;NA;pig10;NA;pig10b_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197649;NA;pig10;NA;pig10c_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197650;NA;pig10;NA;pig10d_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197651;NA;pig10;NA;pig10e_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197652;NA;pig10;NA;pig10f_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197653;NA;pig10;NA;pig10g_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197654;NA;pig10;NA;pig10h_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197655;NA;pig10;NA;pig10i_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197656;NA;pig10;NA;pig10j_SG;sg;shotgun;NA;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197657;NA;pig10;HpyCH4IV;pig10a_HiC;hic;meta-HiC;NO;Europe
+#pig_microbiome;Kalmar et al., PLOS genetics 2022;PRJEB48382;ERR7197658;NA;pig10;HpyCH4IV;pig10b_HiC;hic;meta-HiC;NO;Europe
+dog_microbiome;collab STARCS;todo;todo;18S02580;dog1;NA;dog1a_SG;sg;shotgun;NA;Europe
+dog_microbiome;collab STARCS;todo;todo;18S02580;dog1;NA;dog1b_SG;sg;shotgun;NA;Europe
+dog_microbiome;collab STARCS;todo;todo;18S02580;dog1;HinfI,DpnII;dog1a_arima;hic;arima;YES;Europe
+dog_microbiome;collab STARCS;todo;todo;18S02903;dog2;NA;dog2a_SG;sg;shotgun;NA;Europe
+dog_microbiome;collab STARCS;todo;todo;18S02903;dog2;HinfI,DpnII;dog2a_arima;hic;arima;YES;Europe
+dog_microbiome;collab STARCS;todo;todo;18S02903;dog2;HinfI,DpnII;dog2b_arima;hic;arima;YES;Europe
+dog_microbiome;collab STARCS;todo;todo;18S03310;dog3;NA;dog3a_SG;sg;shotgun;NA;Europe
+dog_microbiome;collab STARCS;todo;todo;18S03310;dog3;NA;dog3b_SG;sg;shotgun;NA;Europe
+dog_microbiome;collab STARCS;todo;todo;18S03310;dog3;NA;dog3c_SG;sg;shotgun;NA;Europe
+dog_microbiome;collab STARCS;todo;todo;18S03310;dog3;HinfI,DpnII;dog3a_arima;hic;arima;YES;Europe
+dog_microbiome;collab STARCS;todo;todo;18S03310;dog3;HinfI,DpnII;dog3b_arima;hic;arima;YES;Europe
+dog_microbiome;collab STARCS;todo;todo;18S02913;dog4;NA;dog4a_SG;sg;shotgun;NA;Europe
+dog_microbiome;collab STARCS;todo;todo;18S02913;dog4;NA;dog4b_SG;sg;shotgun;NA;Europe
+dog_microbiome;collab STARCS;todo;todo;18S02913;dog4;HinfI,DpnII;dog4a_arima;hic;arima;YES;Europe
+duck_microbiome;collab STARCS;todo;todo;66066;duck1;NA;duck1a_SG;sg;shotgun;NA;Europe
+duck_microbiome;collab STARCS;todo;todo;66066;duck1;NA;duck1b_SG;sg;shotgun;NA;Europe
+duck_microbiome;collab STARCS;todo;todo;66066;duck1;NA;duck1c_SG;sg;shotgun;NA;Europe
+duck_microbiome;collab STARCS;todo;todo;66066;duck1;NA;duck1d_SG;sg;shotgun;NA;Europe
+duck_microbiome;collab STARCS;todo;todo;66066;duck1;NA;duck1e_SG;sg;shotgun;NA;Europe
+duck_microbiome;collab STARCS;todo;todo;66066;duck1;HinfI,DpnII;duck1a_arima;hic;arima;YES;Europe
+duck_microbiome;collab STARCS;todo;todo;66066;duck1;HinfI,DpnII;duck1b_arima;hic;arima;YES;Europe
+duck_microbiome;collab STARCS;todo;todo;66066;duck1;HinfI,DpnII;duck1c_arima;hic;arima;YES;Europe
+duck_microbiome;collab STARCS;todo;todo;66066;duck1;HinfI,DpnII;duck1d_arima;hic;arima;YES;Europe
+duck_microbiome;collab STARCS;todo;todo;66066;duck1;HinfI,DpnII;duck1e_arima;hic;arima;YES;Europe
+duck_microbiome;collab STARCS;todo;todo;6717;duck3;NA;duck3a_SG;sg;shotgun;NA;Europe
+duck_microbiome;collab STARCS;todo;todo;6717;duck3;NA;duck3b_SG;sg;shotgun;NA;Europe
+duck_microbiome;collab STARCS;todo;todo;6717;duck3;NA;duck3c_SG;sg;shotgun;NA;Europe
+duck_microbiome;collab STARCS;todo;todo;6717;duck3;NA;duck3d_SG;sg;shotgun;NA;Europe
+duck_microbiome;collab STARCS;todo;todo;6717;duck3;NA;duck3e_SG;sg;shotgun;NA;Europe
+duck_microbiome;collab STARCS;todo;todo;6717;duck3;HinfI,DpnII;duck3a_arima;hic;arima;YES;Europe
+duck_microbiome;collab STARCS;todo;todo;6717;duck3;HinfI,DpnII;duck3b_arima;hic;arima;YES;Europe
+duck_microbiome;collab STARCS;todo;todo;6717;duck3;HinfI,DpnII;duck3c_arima;hic;arima;YES;Europe
+duck_microbiome;collab STARCS;todo;todo;6717;duck3;HinfI,DpnII;duck3d_arima;hic;arima;YES;Europe
+duck_microbiome;collab STARCS;todo;todo;6717;duck3;HinfI,DpnII;duck3e_arima;hic;arima;YES;Europe
+human_microbiome;Yaffe et al., 2020;PRJNA505354;SRR8187104;NA;Hum1;NA;Hum1a_SG;sg;shotgun;NA;North_America
+human_microbiome;Yaffe et al., 2020;PRJNA505354;SRR10238604;NA;Hum1;DpnII;Hum1a_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Yaffe et al., 2020;PRJNA505354;SRR10238605;NA;Hum1;DpnII;Hum1b_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Yaffe et al., 2020;PRJNA505354;SRR10238606;NA;Hum1;DpnII;Hum1c_HiC;hic;meta-HiC;NO;North_America
+# human_microbiome;Yaffe et al., 2020;PRJNA505354;SRR8186424;NA;Hum2;NA;Hum2a_SG;sg;shotgun;NA;North_America
+# human_microbiome;Yaffe et al., 2020;PRJNA505354;SRR8186426;NA;Hum2;DpnII;Hum2a_HiC;hic;meta-HiC;NO;North_America
+# human_microbiome;Yaffe et al., 2020;PRJNA505354;SRR8186425;NA;Hum2;DpnII;Hum2b_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844106;NA;Hum3;NA;Hum3a_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844068;NA;Hum3;NA;Hum3b_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844069;NA;Hum3;NA;Hum3c_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844107;NA;Hum3;NA;Hum3d_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844108;NA;Hum3;Sau3AI;Hum3a_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844080;NA;Hum3;Sau3AI;Hum3b_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844109;NA;Hum3;Sau3AI;Hum3c_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844091;NA;Hum3;Sau3AI;Hum3d_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844102;NA;Hum4;NA;Hum4a_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844110;NA;Hum4;NA;Hum4b_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844113;NA;Hum4;NA;Hum4c_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844111;NA;Hum4;NA;Hum4d_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844112;NA;Hum4;NA;Hum4e_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844124;NA;Hum4;NA;Hum4f_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844135;NA;Hum4;NA;Hum4g_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844114;NA;Hum4;Sau3AI;Hum4a_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844115;NA;Hum4;Sau3AI;Hum4b_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844146;NA;Hum4;Sau3AI;Hum4c_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844154;NA;Hum4;Sau3AI;Hum4d_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844116;NA;Hum4;Sau3AI;Hum4e_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844117;NA;Hum4;Sau3AI;Hum4f_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844070;NA;Hum4;Sau3AI;Hum4g_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844071;NA;Hum5;NA;Hum5a_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844118;NA;Hum5;NA;Hum5b_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844119;NA;Hum5;NA;Hum5c_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844072;NA;Hum5;NA;Hum5d_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844073;NA;Hum5;Sau3AI;Hum5a_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844120;NA;Hum5;Sau3AI;Hum5b_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844121;NA;Hum5;Sau3AI;Hum5c_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844074;NA;Hum5;Sau3AI;Hum5d_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844075;NA;Hum6;NA;Hum6a_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844122;NA;Hum6;NA;Hum6b_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844123;NA;Hum6;NA;Hum6c_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844076;NA;Hum6;NA;Hum6d_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844077;NA;Hum6;Sau3AI;Hum6a_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844125;NA;Hum6;Sau3AI;Hum6b_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844126;NA;Hum6;Sau3AI;Hum6c_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844078;NA;Hum6;Sau3AI;Hum6d_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844079;NA;Hum7;NA;Hum7a_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844127;NA;Hum7;NA;Hum7b_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844128;NA;Hum7;NA;Hum7c_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844081;NA;Hum7;Sau3AI;Hum7a_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844082;NA;Hum7;Sau3AI;Hum7b_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844129;NA;Hum7;Sau3AI;Hum7c_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844130;NA;Hum8;NA;Hum8a_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844083;NA;Hum8;NA;Hum8b_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844084;NA;Hum8;NA;Hum8c_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844131;NA;Hum8;NA;Hum8d_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844132;NA;Hum8;NA;Hum8e_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844085;NA;Hum8;NA;Hum8f_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844086;NA;Hum8;Sau3AI;Hum8a_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844133;NA;Hum8;Sau3AI;Hum8b_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844134;NA;Hum8;Sau3AI;Hum8c_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844087;NA;Hum8;Sau3AI;Hum8d_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844088;NA;Hum8;Sau3AI;Hum8e_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844136;NA;Hum8;Sau3AI;Hum8f_HiC;hic;meta-HiC;NO;North_America
+# human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844137;NA;Hum9;NA;Hum9a_SG;sg;shotgun;NA;North_America
+# human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844089;NA;Hum9;NA;Hum9b_SG;sg;shotgun;NA;North_America
+# human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844138;NA;Hum9;NA;Hum9c_SG;sg;shotgun;NA;North_America
+# human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844090;NA;Hum9;NA;Hum9d_SG;sg;shotgun;NA;North_America
+# human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844139;NA;Hum9;NA;Hum9e_SG;sg;shotgun;NA;North_America
+# human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844092;NA;Hum9;Sau3AI;Hum9a_HiC;hic;meta-HiC;NO;North_America
+# human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844140;NA;Hum9;Sau3AI;Hum9b_HiC;hic;meta-HiC;NO;North_America
+# human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844093;NA;Hum9;Sau3AI;Hum9c_HiC;hic;meta-HiC;NO;North_America
+# human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844094;NA;Hum9;Sau3AI;Hum9d_HiC;hic;meta-HiC;NO;North_America
+# human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844141;NA;Hum9;Sau3AI;Hum9e_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844142;NA;Hum10;NA;Hum10a_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844095;NA;Hum10;NA;Hum10b_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844096;NA;Hum10;NA;Hum10c_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844143;NA;Hum10;NA;Hum10d_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844144;NA;Hum10;NA;Hum10e_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844097;NA;Hum10;Sau3AI;Hum10a_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844098;NA;Hum10;Sau3AI;Hum10b_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844145;NA;Hum10;Sau3AI;Hum10c_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844147;NA;Hum10;Sau3AI;Hum10d_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844099;NA;Hum10;Sau3AI;Hum10e_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844100;NA;Hum11;NA;Hum11a_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844148;NA;Hum11;NA;Hum11a_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844149;NA;Hum11;NA;Hum11c_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844101;NA;Hum11;NA;Hum11d_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844103;NA;Hum11;NA;Hum11e_SG;sg;shotgun;NA;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844150;NA;Hum11;Sau3AI;Hum11a_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844151;NA;Hum11;Sau3AI;Hum11b_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844104;NA;Hum11;Sau3AI;Hum11c_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844105;NA;Hum11;Sau3AI;Hum11d_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;Kent et al., 2020;PRJNA649316;SRX8844152;NA;Hum11;Sau3AI;Hum11e_HiC;hic;meta-HiC;NO;North_America
+human_microbiome;DeMaere et al., MRA 2020;PRJNA377403;SRR7427737;NA;Hum12;Sau3AI,MluCI;Hum12a_proxi;hic;proxi;YES;Oceania
+human_microbiome;DeMaere et al., MRA 2020;PRJNA377403;SRR10566997;NA;Hum12;Sau3AI,MluCI;Hum12b_proxi;hic;proxi;YES;Oceania
+human_microbiome;Ivanova et al., Frontiers 2022;PRJNA718195;SRR14292251;IC4;Hum13;HpaII;Hum13a_3C;hic;3C;YES;Europe
+human_microbiome;Ivanova et al., Frontiers 2022;PRJNA718195;SRR14292252;IC4;Hum13;NA;Hum13a_SG;sg;shotgun;NA;Europe
+human_microbiome;Ivanova et al., Frontiers 2022;PRJNA718195;SRR14292249;IC5;Hum13;HpaII;Hum13b_3C;hic;3C;YES;Europe
+human_microbiome;Ivanova et al., Frontiers 2022;PRJNA718195;SRR14292250;IC5;Hum13;NA;Hum13b_SG;sg;shotgun;NA;Europe
+human_microbiome;Ivanova et al., Frontiers 2022;PRJNA718195;SRR14292247;IC6;Hum14;HpaII;Hum14a_3C;hic;3C;YES;Europe
+human_microbiome;Ivanova et al., Frontiers 2022;PRJNA718195;SRR14292248;IC6;Hum14;NA;Hum14a_SG;sg;shotgun;NA;Europe
+human_microbiome;Ivanova et al., Frontiers 2022;PRJNA718195;SRR14292245;IC9;Hum14;HpaII;Hum14b_3C;hic;3C;YES;Europe
+human_microbiome;Ivanova et al., Frontiers 2022;PRJNA718195;SRR14292246;IC9;Hum14;NA;Hum14b_SG;sg;shotgun;NA;Europe
+human_microbiome;Press et al., BioRXiv 2017;PRJNA413092;SRR6131124;NA;Hum15;Sau3AI;Hum15a_proxi;hic;proxi;YES;North_America
+human_microbiome;Press et al., BioRXiv 2017;PRJNA413092;SRR6131123;NA;Hum15;MluCI;Hum15b_proxi;hic;proxi;YES;North_America
+human_microbiome;Press et al., BioRXiv 2017;PRJNA413092;SRR6131122;NA;Hum15;NA;Hum15a_SG;sg;shotgun;NA;North_America
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358266;NA;Hum16;Sau3AI,MluCI;Hum16a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358266;NA;Hum16;NA;Hum16a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358266;NA;Hum16;NA;Hum16a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358266;NA;Hum16;NA;Hum16a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358267;NA;Hum17;Sau3AI,MluCI;Hum17a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358267;NA;Hum17;NA;Hum17a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358268;NA;Hum18;Sau3AI,MluCI;Hum18a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358268;NA;Hum18;NA;Hum18a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358272;NA;Hum19;Sau3AI,MluCI;Hum19a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358272;NA;Hum19;NA;Hum19a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358329;NA;Hum20;Sau3AI,MluCI;Hum20a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358329;NA;Hum20;NA;Hum20a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358278 ;NA;Hum22;Sau3AI,MluCI;Hum22a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358278 ;NA;Hum22;NA;Hum22a_SG;sg;shotgun;NA;Asia
+# human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358283;NA;Hum23;Sau3AI,MluCI;Hum23a_proxi;hic;proxi;YES;Asia
+# human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358283;NA;Hum23;NA;Hum23a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358285;NA;Hum25;Sau3AI,MluCI;Hum25a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358285;NA;Hum25;NA;Hum25a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358286;NA;Hum26;Sau3AI,MluCI;Hum26a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358286;NA;Hum26;NA;Hum26a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358303;NA;Hum27;Sau3AI,MluCI;Hum27a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358303;NA;Hum27;NA;Hum27a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358305;NA;Hum28;Sau3AI,MluCI;Hum28a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358305;NA;Hum28;NA;Hum28a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358307;NA;Hum29;Sau3AI,MluCI;Hum29a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358307;NA;Hum29;NA;Hum29a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358315;NA;Hum30;Sau3AI,MluCI;Hum30a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358315;NA;Hum30;NA;Hum30a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358318;NA;Hum31;Sau3AI,MluCI;Hum31a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358318;NA;Hum31;NA;Hum31a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358323;NA;Hum32;Sau3AI,MluCI;Hum32a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358323;NA;Hum32;NA;Hum32a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358324;NA;Hum33;Sau3AI,MluCI;Hum33a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358324;NA;Hum33;NA;Hum33a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358325;NA;Hum34;Sau3AI,MluCI;Hum34a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358325;NA;Hum34;NA;Hum34a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358332;NA;Hum35;Sau3AI,MluCI;Hum35a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358332;NA;Hum35;NA;Hum35a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358336;NA;Hum36;Sau3AI,MluCI;Hum36a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358336;NA;Hum36;NA;Hum36a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358338;NA;Hum37;Sau3AI,MluCI;Hum37a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358338;NA;Hum37;NA;Hum37a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358339;NA;Hum38;Sau3AI,MluCI;Hum38a_proxi;hic;proxi;YES;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358339;NA;Hum38;NA;Hum38a_SG;sg;shotgun;NA;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358349;NA;Hum39;Sau3AI,MluCI;Hum39a_proxi;hic;proxi;NO;Asia
+human_microbiome;Gounot et al., 2022;PRJEB49168;SAMEA11358349;NA;Hum39;NA;Hum39a_SG;sg;shotgun;NA;Asia
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853880;7020;Hum40;HpaII;Hum40a_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853880;7020;Hum40;MluCI;Hum40b_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853878;8016;Hum41;HpaII;Hum41a_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853878;8016;Hum41;MluCI;Hum41b_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853881;7016;Hum42;HpaII;Hum42a_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853881;7016;Hum42;MluCI;Hum42b_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853873;16026;Hum43;HpaII;Hum43a_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853873;16026;Hum43;MluCI;Hum43b_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853874;16021;Hum44;HpaII;Hum44a_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853874;16021;Hum44;MluCI;Hum44b_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853872;17006;Hum45;HpaII;Hum45a_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853872;17006;Hum45;MluCI;Hum45b_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853876;10015;Hum46;HpaII;Hum46a_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853876;10015;Hum46;MluCI;Hum46b_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11873578;9010;Hum47;HpaII;Hum47a_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853877;9010;Hum47;MluCI;Hum47b_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11873576;9010;Hum47;HpaII;Hum47a_eHiC;hic;eHiC;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11873577;9010;Hum47;MluCI;Hum47b_eHiC;hic;eHiC;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853875;16016;Hum48;HpaII;Hum48a_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853875;16016;Hum48;MluCI;Hum48b_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR13435231;16016;Hum48;HpaII;Hum48a_eHiC;hic;eHiC;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR13435230;16016;Hum48;MluCI;Hum48b_eHiC;hic;eHiC;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853879;8015;Hum49;HpaII;Hum49a_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR11853879;8015;Hum49;MluCI;Hum49b_3C;hic;3C;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR13435229;8015;Hum49;HpaII;Hum49a_eHiC;hic;eHiC;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;PRJNA627086;SRR13435228;8015;Hum49;MluCI;Hum49b_eHiC;hic;eHiC;YES;Europe
+human_microbiome;Marbouty et al., Elife 2021;todo;todo;8015;Hum49;HinfI,DpnII;Hum49a_arima;hic;arima;YES;Europe
+human_microbiome;RIIPBiota;todo;todo;P015;Hum50;HinfI,DpnII;Hum50a_arima;hic;arima;YES;South_America
+human_microbiome;RIIPBiota;todo;todo;P015;Hum50;HinfI,DpnII;Hum50b_arima;hic;arima;YES;South_America
+human_microbiome;RIIPBiota;todo;todo;P015;Hum50;NA;Hum50a_SG;sg;shotgun;NA;South_America
+human_microbiome;RIIPBiota;todo;todo;P016;Hum51;HinfI,DpnII;Hum51a_arima;hic;arima;YES;South_America
+human_microbiome;RIIPBiota;todo;todo;P016;Hum51;NA;Hum51a_SG;sg;shotgun;NA;South_America
+human_microbiome;RIIPBiota;todo;todo;P006;Hum52;HinfI,DpnII;Hum52a_arima;hic;arima;YES;South_America
+human_microbiome;RIIPBiota;todo;todo;P006;Hum52;NA;Hum52a_SG;sg;shotgun;NA;South_America
+human_microbiome;RIIPBiota;todo;todo;P007;Hum53;HinfI,DpnII;Hum53a_arima;hic;arima;YES;South_America
+human_microbiome;RIIPBiota;todo;todo;P007;Hum53;NA;Hum53a_SG;sg;shotgun;NA;South_America
+human_microbiome;RIIPBiota;todo;todo;P011;Hum54;HinfI,DpnII;Hum54a_arima;hic;arima;YES;South_America
+human_microbiome;RIIPBiota;todo;todo;P011;Hum54;NA;Hum54a_SG;sg;shotgun;NA;South_America
+human_microbiome;RIIPBiota;todo;todo;P005;Hum55;HinfI,DpnII;Hum55a_arima;hic;arima;YES;South_America
+human_microbiome;RIIPBiota;todo;todo;P005;Hum55;NA;Hum55a_SG;sg;shotgun;NA;South_America
+human_microbiome;RIIPBiota;todo;todo;P009;Hum56;HinfI,DpnII;Hum56a_arima;hic;arima;YES;South_America
+human_microbiome;RIIPBiota;todo;todo;P009;Hum56;NA;Hum56a_SG;sg;shotgun;NA;South_America
+human_microbiome;RIIPBiota;todo;todo;P013;Hum57;HinfI,DpnII;Hum57a_arima;hic;arima;YES;South_America
+human_microbiome;RIIPBiota;todo;todo;P013;Hum57;NA;Hum57a_SG;sg;shotgun;NA;South_America
+human_microbiome;collab STARCS;todo;todo;Hog1;Hum58;HinfI,DpnII;Hum58a_arima;hic;arima;YES;Europe
+human_microbiome;collab STARCS;todo;todo;Hog1;Hum58;NA;Hum58a_SG;sg;shotgun;NA;Europe
+human_microbiome;collab STARCS;todo;todo;Hog1;Hum58;NA;Hum58b_SG;sg;shotgun;NA;Europe
+human_microbiome;collab STARCS;todo;todo;Hog5;Hum59;HinfI,DpnII;Hum59a_arima;hic;arima;YES;Europe
+human_microbiome;collab STARCS;todo;todo;Hog5;Hum59;NA;Hum59c_SG;sg;shotgun;NA;Europe
+human_microbiome;collab STARCS;todo;todo;Hog5;Hum59;NA;Hum59a_SG;sg;shotgun;NA;Europe
+human_microbiome;collab STARCS;todo;todo;Hog5;Hum59;NA;Hum59b_SG;sg;shotgun;NA;Europe
+human_microbiome;collab STARCS;todo;todo;Hog3;Hum60;HinfI,DpnII;Hum60a_arima;hic;arima;YES;Europe
+human_microbiome;collab STARCS;todo;todo;Hog3;Hum60;NA;Hum60a_SG;sg;shotgun;NA;Europe
+human_microbiome;collab STARCS;todo;todo;Hog3;Hum60;NA;Hum60b_SG;sg;shotgun;NA;Europe
+human_microbiome;collab STARCS;todo;todo;Hog3;Hum60;NA;Hum60c_SG;sg;shotgun;NA;Europe
+human_microbiome;collab STARCS;todo;todo;Hog4;Hum61;HinfI,DpnII;Hum61a_arima;hic;arima;YES;Europe
+human_microbiome;collab STARCS;todo;todo;Hog4;Hum61;NA;Hum61a_SG;sg;shotgun;NA;Europe
+human_microbiome;collab STARCS;todo;todo;Hog4;Hum61;NA;Hum61b_SG;sg;shotgun;NA;Europe
+human_microbiome;todo;todo;todo;NA;Hum62;HinfI,DpnII;Hum62a_arima;hic;arima;NO;Europe
+human_microbiome;todo;todo;todo;NA;Hum62;NA;Hum62a_SG;sg;shotgun;NA;Europe
+human_microbiome;todo;todo;todo;NA;Hum63;HinfI,DpnII;Hum63a_arima;hic;arima;NO;Europe
+human_microbiome;todo;todo;todo;NA;Hum63;NA;Hum63a_SG;sg;shotgun;NA;Europe
+human_microbiome;todo;todo;todo;NA;Hum64;HinfI,DpnII;Hum64a_arima;hic;arima;NO;Europe
+human_microbiome;todo;todo;todo;NA;Hum64;NA;Hum64a_SG;sg;shotgun;NA;Europe
+human_microbiome;todo;todo;todo;NA;Hum65;HinfI,DpnII;Hum65a_arima;hic;arima;NO;Europe
+human_microbiome;todo;todo;todo;NA;Hum65;NA;Hum65a_SG;sg;shotgun;NA;Europe
+human_microbiome;RIIPBiota;todo;todo;P014;Hum66;HinfI,DpnII;Hum66a_arima;hic;arima;YES;South_America
+human_microbiome;RIIPBiota;todo;todo;P014;Hum66;HinfI,DpnII;Hum66b_arima;hic;arima;YES;South_America
+mezcal_fermentation;Mexique;todo;todo;Pulque;Mezcal;HinfI,DpnII;Mezcala_arima;hic;arima;YES;North_America
+mezcal_fermentation;Mexique;todo;todo;T0;Mezcal;HinfI,DpnII;Mezcalb_arima;hic;arima;YES;North_America
+mezcal_fermentation;Mexique;todo;todo;T0;Mezcal;HinfI,DpnII;Mezcalc_arima;hic;arima;YES;North_America
+mezcal_fermentation;Mexique;todo;todo;T12;Mezcal;HinfI,DpnII;Mezcald_arima;hic;arima;YES;North_America
+mezcal_fermentation;Mexique;todo;todo;T24;Mezcal;HinfI,DpnII;Mezcale_arima;hic;arima;YES;North_America
+mezcal_fermentation;Mexique;todo;todo;T36;Mezcal;HinfI,DpnII;Mezcalf_arima;hic;arima;YES;North_America
+mezcal_fermentation;Mexique;todo;todo;T36;Mezcal;HinfI,DpnII;Mezcalg_arima;hic;arima;YES;North_America
+mezcal_fermentation;Mexique;todo;todo;T48;Mezcal;HinfI,DpnII;Mezcalh_arima;hic;arima;YES;North_America
+mezcal_fermentation;Mexique;todo;todo;T60;Mezcal;HinfI,DpnII;Mezcali_arima;hic;arima;YES;North_America
+mezcal_fermentation;Mexique;todo;todo;Pulque;Mezcal;NA;Mezcala_SG;sg;shotgun;NA;North_America
+mezcal_fermentation;Mexique;todo;todo;T12;Mezcal;NA;Mezcalb_SG;sg;shotgun;NA;North_America
+mezcal_fermentation;Mexique;todo;todo;T24;Mezcal;NA;Mezcalc_SG;sg;shotgun;NA;North_America
+mezcal_fermentation;Mexique;todo;todo;T36;Mezcal;NA;Mezcald_SG;sg;shotgun;NA;North_America
+mezcal_fermentation;Mexique;todo;todo;T36;Mezcal;NA;Mezcale_SG;sg;shotgun;NA;North_America
+mezcal_fermentation;Mexique;todo;todo;T48;Mezcal;NA;Mezcalf_SG;sg;shotgun;NA;North_America
+mezcal_fermentation;Mexique;todo;todo;T60;Mezcal;NA;Mezcalg_SG;sg;shotgun;NA;North_America
+mice_microbiome;Marbouty et al., Sc Adv 2017;PRJNA3021589;SRR2919212;NA;mice1;HpaII;mice1a_3C;hic;3C;YES;Europe
+mice_microbiome;Marbouty et al., Sc Adv 2017;PRJNA3021589;SRR2919212;NA;mice1;HpaII;mice1b_3C;hic;3C;YES;Europe
+mice_microbiome;Marbouty et al., Sc Adv 2017;PRJNA3021589;SRR2919214;NA;mice1;MluCI;mice1c_3C;hic;3C;YES;Europe
+mice_microbiome;Marbouty et al., Sc Adv 2017;PRJNA3021589;SRR2919214;NA;mice1;MluCI;mice1d_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824082;F2;mice2;HpaII;mice2a_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824081;F5;mice2;HpaII;mice2b_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824080;F9;mice2;HpaII;mice2c_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824079;G2;mice2;HpaII;mice2d_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824078;G4;mice2;HpaII;mice2e_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824077;G5;mice2;HpaII;mice2f_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824076;G6;mice2;HpaII;mice2g_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824075;G7;mice2;HpaII;mice2h_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824074;G9;mice2;HpaII;mice2i_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824073;G10;mice2;HpaII;mice2j_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824072;G12;mice2;HpaII;mice2k_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824071;G16;mice2;HpaII;mice2l_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824070;H2;mice2;HpaII;mice2m_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824069;H5;mice2;HpaII;mice2n_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824068;H6;mice2;HpaII;mice2o_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824067;H7;mice2;HpaII;mice2p_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824066;H9;mice2;HpaII;mice2q_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824065;H11;mice2;HpaII;mice2r_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824064;H12;mice2;HpaII;mice2s_3C;hic;3C;YES;Europe
+mice_microbiome;Baudry et al.,Frontiers 2019;PRJNA542645;SRX5824063;H16;mice2;HpaII;mice2t_3C;hic;3C;YES;Europe
+mice_microbiome;collab Helaine;todo;todo;mice *4 -48h;mice3;HinfI,DpnII;mice3a_arima;hic;arima;NO;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 -24h;mice3;HinfI,DpnII;mice3b_arima;hic;arima;NO;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 -0h;mice3;HinfI,DpnII;mice3c_arima;hic;arima;NO;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 +12h;mice3;HinfI,DpnII;mice3d_arima;hic;arima;NO;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 +24h;mice3;HinfI,DpnII;mice3e_arima;hic;arima;NO;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 +36h;mice3;HinfI,DpnII;mice3f_arima;hic;arima;NO;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 +48h;mice3;HinfI,DpnII;mice3g_arima;hic;arima;NO;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 -48h;mice3;NA;mice3a_SG;sg;shotgun;NA;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 -24h;mice3;NA;mice3b_SG;sg;shotgun;NA;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 -0h;mice3;NA;mice3c_SG;sg;shotgun;NA;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 +12h;mice3;NA;mice3d_SG;sg;shotgun;NA;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 +24h;mice3;NA;mice3e_SG;sg;shotgun;NA;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 +36h;mice3;NA;mice3f_SG;sg;shotgun;NA;North_America
+mice_microbiome;collab Helaine;todo;todo;mice *4 +48h;mice3;NA;mice3g_SG;sg;shotgun;NA;North_America
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2017 - S40;MK1;HinfI,DpnII;MK1a_arima;hic;arima;YES;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2017 - S46;MK1;HinfI,DpnII;MK1b_arima;hic;arima;YES;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2017 - S50;MK1;HinfI,DpnII;MK1c_arima;hic;arima;YES;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S01;MK1;HinfI,DpnII;MK1d_arima;hic;arima;YES;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S07;MK1;HinfI,DpnII;MK1e_arima;hic;arima;YES;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S13;MK1;HinfI,DpnII;MK1f_arima;hic;arima;YES;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S19;MK1;HinfI,DpnII;MK1g_arima;hic;arima;YES;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S23;MK1;HinfI,DpnII;MK1h_arima;hic;arima;YES;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S27;MK1;HinfI,DpnII;MK1i_arima;hic;arima;YES;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S29;MK1;HinfI,DpnII;MK1j_arima;hic;arima;YES;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S37;MK1;HinfI,DpnII;MK1k_arima;hic;arima;YES;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2017 - S40;MK1;HinfI,DpnII;MK1a_SG;sg;shotgun;NA;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2017 - S46;MK1;HinfI,DpnII;MK1b_SG;sg;shotgun;NA;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2017 - S50;MK1;HinfI,DpnII;MK1c_SG;sg;shotgun;NA;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S01;MK1;HinfI,DpnII;MK1d_SG;sg;shotgun;NA;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S07;MK1;HinfI,DpnII;MK1e_SG;sg;shotgun;NA;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S13;MK1;HinfI,DpnII;MK1f_SG;sg;shotgun;NA;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S19;MK1;HinfI,DpnII;MK1g_SG;sg;shotgun;NA;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S23;MK1;HinfI,DpnII;MK1h_SG;sg;shotgun;NA;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S27;MK1;HinfI,DpnII;MK1i_SG;sg;shotgun;NA;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S29;MK1;HinfI,DpnII;MK1j_SG;sg;shotgun;NA;Europe
+kid_microbiome;MetaKIDS;todo;todo;MK01 - 2018 - S37;MK1;HinfI,DpnII;MK1k_SG;sg;shotgun;NA;Europe
+#napoli_bay;Naples;todo;todo;filtre 0.2cµM;ocean1;HinfI,DpnII;ocean1a_arima;hic;arima;NO;Europe
+#napoli_bay;Naples;todo;todo;filtre 0.2cµM;ocean1;HinfI,DpnII;ocean1b_arima;hic;arima;NO;Europe
+#napoli_bay;Naples;todo;todo;filtre 0.2cµM;ocean1;HinfI,DpnII;ocean1c_arima;hic;arima;NO;Europe
+#napoli_bay;Naples;todo;todo;filtre 0.2cµM;ocean1;HinfI,DpnII;ocean1d_arima;hic;arima;NO;Europe
+#coastal_brest;Brest;todo;todo;filtre 0.2cµM;ocean2;HinfI,DpnII;ocean2a_arima;hic;arima;YES;Europe
+#coastal_brest;Brest;todo;todo;filtre 0.2cµM;ocean2;HinfI,DpnII;ocean2b_arima;hic;arima;YES;Europe
+#coastal_brest;Brest;todo;todo;filtre 0.2cµM;ocean2;HinfI,DpnII;ocean2c_arima;hic;arima;YES;Europe
+#coastal_brest;Brest;todo;todo;filtre 0.2cµM;ocean2;HinfI,DpnII;ocean2d_arima;hic;arima;YES;Europe
+#coastal_brest;Brest;todo;todo;filtre 0.2cµM;ocean2;HinfI,DpnII;ocean2e_arima;hic;arima;YES;Europe
+sheep_microbiome;Bickart et al., nat Biotech 2022 ;PRJNA595610;SRR10988543;NA;sheep1;NA;sheep1a_SG;sg;shotgun;NA;North_America
+sheep_microbiome;Bickart et al., nat Biotech 2022 ;PRJNA595610;SRR14350344;NA;sheep1;Sau3AI,MluCI;sheep1a_proxi;hic;proxi;YES;North_America
+wastewater;Stalder et al., ISME 2019;PRJNA506462;SRR8239392;WW01;ww1;Sau3AI,MluCI;ww1a_HiC;hic;HiC;YES;North_America
+wastewater;Stalder et al., ISME 2019;PRJNA506462;SRR8239393;WW01;ww1;NA;ww1a_SG;sg;shotgun;NA;North_America
+wastewater;Stalder et al., ISME 2019;PRJNA506462;SRR8239394;WWEC01;ww2;Sau3AI,MluCI;ww2a_HiC;hic;HiC;YES;North_America
+wastewater;Stalder et al., ISME 2019;PRJNA506462;SRR8239395;WWEC01;ww2;NA;ww2a_SG;sg;shotgun;NA;North_America
+wastewater;Chen et al., nat comm 2021;PRJNA745436;SRR15097283;NA;ww3;Sau3AI,MluCI;ww3a_HiC;hic;HiC;YES;Asia
+wastewater;Chen et al., nat comm 2021;PRJNA745436;SRR15882951;NA;ww3;NA;ww3a_SG;sg;shotgun;NA;Asia
+# cat_microbiome;Rojas et al., 2022;PRJNA893230;SRX18058393;Danny;cat1;Sau3AI,MluCI;cat1a_proxi;hic;proximeta;YES;North_America
+cat_microbiome;Rojas et al., 2022;PRJNA893230;SRX18058392;LilBulb;cat2;Sau3AI,MluCI;cat2a_proxi;hic;proximeta;YES;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR21545389;C3;mat1;NA;mat1a_SG;sg;shotgun;NA;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR21545388;C4;mat2;NA;mat2a_SG;sg;shotgun;NA;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR21545387;C5;mat3;NA;mat3a_SG;sg;shotgun;NA;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR21545386;C6;mat4;NA;mat4a_SG;sg;shotgun;NA;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR21545385;C2;mat5;NA;mat5a_SG;sg;shotgun;NA;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR21545384;C1;mat6;NA;mat6a_SG;sg;shotgun;NA;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR21545383;C10;mat7;NA;mat7a_SG;sg;shotgun;NA;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR21545382;C9;mat8;NA;mat8a_SG;sg;shotgun;NA;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR21545381;C8;mat9;NA;mat9a_SG;sg;shotgun;NA;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR21545380;C7;mat10;NA;mat10a_SG;sg;shotgun;NA;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR22355236;C3;mat1;Sau3AI,MluCI;mat1a_proxi;hic;proximeta;NO;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR22355235;C4;mat2;Sau3AI,MluCI;mat2a_proxi;hic;proximeta;NO;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR22355234;C5;mat3;Sau3AI,MluCI;mat3a_proxi;hic;proximeta;NO;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR22355233;C6;mat4;Sau3AI,MluCI;mat4a_proxi;hic;proximeta;NO;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR22355232;C2;mat5;Sau3AI,MluCI;mat5a_proxi;hic;proximeta;NO;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR22355231;C1;mat6;Sau3AI,MluCI;mat6a_proxi;hic;proximeta;NO;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR22355230;C10;mat7;Sau3AI,MluCI;mat7a_proxi;hic;proximeta;NO;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR22355229;C9;mat8;Sau3AI,MluCI;mat8a_proxi;hic;proximeta;NO;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR22355228;C8;mat9;Sau3AI,MluCI;mat9a_proxi;hic;proximeta;NO;North_America
+hydrothermal_mat;Hwang et al., 2023;PRJNA879229;SRR22355227;C7;mat10;Sau3AI,MluCI;mat10a_proxi;hic;proximeta;NO;North_America

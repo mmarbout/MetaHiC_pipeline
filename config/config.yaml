@@ -1,0 +1,75 @@
+samples: "config/metadata.csv"
+base_dir: "/pasteur/appa/homes/ambignau/Phage3C/Martial/BPN_Amaury/"
+out_dir: "data"
+tmp_dir: "tmp"
+ref_dir: "/pasteur/zeus/projets/p02/Phage3C/Martial/BPN_data/Assembly/"
+fastq_dir: "/pasteur/zeus/projets/p02/Phage3C/Martial/BPN_data/FastQ/"
+db_dir: "database"
+resfinderDir : "/pasteur/zeus/projets/p02/Phage3C/Martial/BPN_data/Annotations"
+
+threads: 32
+spades_mem: 32
+threads_small: 4
+threads_large: 64
+
+# Alignment
+n_splits: 20
+balance_args: "--mad-max 10 --min-nnz 5"
+
+# Contact map network
+bowtie2_args: "--sensitive-local"
+res: [50000, 100000]
+
+# Binning
+# MetaTOR
+metator:
+    algorithm: "louvain"
+    aligner: "bowtie2"
+    mode: "cutsite"
+    iter: 100
+    rec_iter: 20
+    normalization: "empirical_hit"
+    overlap: 80
+    rec_overlap: 80
+    min_qual: 30
+    size: 500000
+    min_size : 500
+
+# MAGs scaffolding
+scaffold :
+    junctions : NNNNNNNNNN
+    threshold : 0.01
+    window_size : 5000
+
+
+# Phage binning
+min_contig_size: 500
+res_phage: 500
+min_phage_length: 5000
+metavir:
+    threshold : 0.5
+
+Helaine:
+    ref: "assembly_Helaine.fa"
+    enzyme: DpnII,HinfI
+
+Naples:
+    ref: "assembly_Naples_small.fa"
+    enzyme: DpnII,HinfI
+
+P016:
+    ref: "P016_megahit.fa"
+    enzyme: DpnII,HinfI
+
+Hog4:
+    ref: "Hog4.fa"
+    enzyme: DpnII,HinfI
+    readlen: 100
+    trimqual: 28
+
+P014:
+    ref: "Hog4.fa"
+    enzyme: DpnII,HinfI
+    readlen: 100
+    trimqual: 28
+

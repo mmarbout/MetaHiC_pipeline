@@ -1,0 +1,27 @@
+name: metator_binning
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - requests
+  - pip
+  - bowtie2=2.4.5
+  - samtools=1.15
+  - prodigal=2.6.3
+  - hmmer=3.3.2
+  - cooltools=0.5.1
+  - bedtools=2.26.0
+  - seqkit=2.2.0
+  - seqtk=1.3
+  - bbmap=39.01
+  - pyfastx=0.8.4
+  - pairix=0.3.7
+  - pairtools=1.0.2
+  - pip:
+    - Cython
+    - git+https://github.com/koszullab/metaTOR.git
+    - micomplete==1.1.1
+    - cooler==0.9.1
+    - pandas==1.5.3
+    - hicstuff==3.1.5

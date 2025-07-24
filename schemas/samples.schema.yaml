@@ -1,0 +1,48 @@
+$schema: "http://json-schema.org/draft-04/schema#"
+
+description: an entry in the sample sheet
+
+properties:
+    sample_type:
+        type        : string
+        description : Type of metagenomic samples.
+    source:
+        type        : string
+        description : Study where the sample came from.
+    bioproject:
+        type        : string
+        description : Accession number of the bioproject if the sample is published. NA otherwise.
+    SRA_accession:
+        type        : string
+        description : Accession number of the SRA fastq file if the sample is published. NA otherwise.
+    original_id:
+        type        : string
+        description : Old name of the sample.
+    library:
+        type        : string
+        description : Name of the library.
+    ref:
+        type        : string
+        description : Name of the sample reference.
+    type:
+        type        : string
+        description : Type of the genomic assay (HiC, RNA-seq, ChIP-seq...)
+    enzyme:
+        type        : string
+        description : Restriction enzyme used in HiC, '-' otherwise.
+    condition:
+        type        : string
+        description : Additional description of the sample (time point, filter siwe...)
+    replicates:
+        type        : string
+        description : Replicate id number of the sample.
+        description : Restriction enzyme used in HiC, 'NA' otherwise.
+    method:
+        type        : string
+        description : Protocol used for to generate the library.
+    digestion:
+        type        : string
+        description : If the HiC library has been digested.
+    geographical_area:
+        type        : string
+        description : Geographical area of the sample.

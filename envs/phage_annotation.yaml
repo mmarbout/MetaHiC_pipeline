@@ -1,0 +1,13 @@
+name: phage_annotation
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - requests
+  - pip
+  - virsorter=2.2.3
+  - checkv=1.0.1
+  - genomad=1.6.1
+  - pip:
+    - git+https://github.com/ABignaud/MetaVir.git
